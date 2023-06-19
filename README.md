@@ -38,8 +38,8 @@ conda install -c conda-forge openai
 ## Setup
 
 - Clone the repository or download the it (running `git clone https://github.com/ferrazzipietro/teach-ChatGPT-your-R-library.git`)
-- Modify the a CONFIG.json file in the root directory of the project adding your information, included you API KEY
-- Copy your .R file containing the functions in the `roxygen2` format. Make sure that each function has its comment section and that the file contains only the functions of interest and nothing else. 
+- Modify the a `CONFIG.json` file in the root directory of the project adding your information, included you API KEY
+- Copy your `.R` file containing the functions in the `roxygen2` format. Make sure that each function has its comment section and that the file contains only the functions of interest and nothing else. 
 
 
 ## Usage
