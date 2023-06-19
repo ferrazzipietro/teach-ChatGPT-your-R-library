@@ -6,6 +6,7 @@ A good practice of R programming is to document all the functions using a `roxyg
 ```R
 #' This is an example of how to document functions
 #' @param function_name character. Name of the function we are documenting now
+#' @param function_usage character. description of the function
 #' @outputs description of how to use the function
 function_example <- function(function_name, function_usage){
   description <- paste0(function_name, ' is a function that is used for ', function_usage)
