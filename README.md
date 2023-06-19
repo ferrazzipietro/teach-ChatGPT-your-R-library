@@ -62,8 +62,4 @@ The cost of the fine tuning depends on the model. Now (18/06/2023) the available
 
 the prices can be find at the 'Fine tuning models' section of [OpenAi Pricing](https://openai.com/pricing).
 
-For me, the finetuning of `davinci` costed around 4$ for 100 imputed functions. 
-
-
-
-Working in R
+For me, the fine tuning of `davinci` costed around 4$ for 100 imputed functions. 
