@@ -30,6 +30,7 @@ conda create --name myenv
 conda activate myenv
 ```
 
+
 Install the openai Python package by running:
 ```bash
 conda install -c conda-forge openai
@@ -63,3 +64,15 @@ The cost of the fine tuning depends on the model. Now (18/06/2023) the available
 the prices can be find at the 'Fine tuning models' section of [OpenAi Pricing](https://openai.com/pricing).
 
 For me, the fine tuning of `davinci` costed around 4$ for 100 imputed functions. 
+
+
+
+## Acknowledgements
+
+ - [OpenAI](https://github.com/openai/openai-python)
+ - [ChatGPT](https://openai.com/blog/chatgpt)
+ - [abroniewski](https://github.com/abroniewski/CoverLetter-Generator.git)
+
+![Logo](https://i.imgur.com/BBhcHDx.gif)
+
+
