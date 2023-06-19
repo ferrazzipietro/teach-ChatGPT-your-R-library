@@ -1,0 +1,7 @@
+{
+    "api_key": "YOUR-API-KEY",
+    "model_engine": "MODEL-TO-FINETUNE",
+    "source_functions_loc1": "PATH-TO-R-FUNCTIONS",
+    "ENV_NAME": "CONDA-VIRTUAL-ENV",
+    "suffix": "SUFFIX-TO-ADD-TO-THE-MODEL-NAME"
+  }
