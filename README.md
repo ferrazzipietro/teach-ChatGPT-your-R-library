@@ -1,5 +1,5 @@
 # teach-ChatGPT-your-R-library
-Fine tune ChatGPT using R functions.
+Fine tune ChatGPT on your R functions!
 
 A good practice of R programming is to document all the functions using a `roxygen2`-like flavour, commenting them using the `#'` chars before the definition. For example:
 
