@@ -51,6 +51,7 @@ conda install -c conda-forge openai
   ```bash
   python main.py
   ```
+  The idea is that the comments to the function are given to the model has they were the prompts, while the function itself is the completion.
 - if the queue of Openai is crowded, you might recive a message saying `run openai api fine_tunes.follow -i YOUR-SESSION-CODE to relaunch the session`. If it happens, make sure to add your openai API KEY:
   ```bash
   openai -k YOUR-API-KEY api fine_tunes.follow -i YOUR-SESSION-CODE
@@ -64,7 +65,7 @@ The cost of the fine tuning depends on the model. Now (18/06/2023) the available
 
 the prices can be find at the 'Fine tuning models' section of [OpenAi Pricing](https://openai.com/pricing).
 
-For me, the fine tuning of `davinci` costed around 4$ for 100 imputed functions. 
+For me, the fine tuning of `davinci` costed around 4$ for 100 imputed functions, while ada costed me 0.05$ for the same amount of input data.
 
 
 
