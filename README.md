@@ -16,7 +16,7 @@ function_example <- function(function_name, function_usage){
 
 In big projects, many of this utility functions can be created, and eventually be grouped in a library.
 
-In this repo I fine tuned ChatGPT over a set of functions having that standard format, to 'teach' to the model the work I've done so far and leverage on its help in the future. 
+In this repo I **fine tune ChatGPT over a set of functions** having that standard format, to **'teach' to the model the work I've done** so far and **leverage on its help in the future**. 
 
 ## Prerequisites
 
